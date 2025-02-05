@@ -16,7 +16,7 @@ When this is done, you can run the following commands to set up the project:
 git clone https://github.com/Silverasdf/traffic_feedback_project.git
 cd traffic_feedback_project
 conda env create -f environment.yml
-conda activate traffic_feedback_project
+conda activate trafficfeedback
 ```
 
 In order to use the LLM locally, you will need to download the model. You can do this by running the following command:
